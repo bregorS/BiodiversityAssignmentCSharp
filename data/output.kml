@@ -1,0 +1,3017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.100703093,51.43855333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus auritus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.028388432,51.45596204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.010096676,51.40320049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.852985511,51.56229204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.797184303,51.48979002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.92866417,51.56525556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.065955891,51.55473813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-1.016891152,51.32097165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.06814711,51.37669762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-0.886235708,51.35262695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.143190884,51.47484274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.999211275,51.47370236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.969403125,51.51840836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.885567829,51.40972655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-0.770556798,51.40857648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-0.958066487,51.38341452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela vison</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.811118129,51.50791799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.030292527,51.36604852,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.885349173,51.41871749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.953755139,51.5722265,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.94058047,51.5181516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.924898607,51.57196569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Cervus elaphus</description>
+      <Point>
+        <coordinates>-0.922154587,51.35206363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis nattereri</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis nattereri</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis nattereri</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus auritus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.085777646,51.46541639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.939744887,51.58514023,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.071382461,51.46530327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.897347303,51.51775317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.852985511,51.56229204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.827601377,51.42714712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.827601377,51.42714712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.922154587,51.35206363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.107080746,51.44354814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.809987791,51.52364413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-0.958066487,51.38341452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lutra lutra</description>
+      <Point>
+        <coordinates>-0.958066487,51.38341452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lutra lutra</description>
+      <Point>
+        <coordinates>-0.898864431,51.45481713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis bechsteinii</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.839247484,51.5351784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.959086108,51.33845835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.913469017,51.44596044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-0.999604591,51.45571998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex minutus</description>
+      <Point>
+        <coordinates>-1.043719665,51.41112365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.15825119,51.43898066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.172638432,51.43908308,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-0.913469017,51.44596044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-0.927225202,51.47306589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Barbastella barbastellus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Barbastella barbastellus</description>
+      <Point>
+        <coordinates>-0.982411315,51.58147118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.158581596,51.42099737,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myocastor coypus</description>
+      <Point>
+        <coordinates>-0.958270622,51.37442331,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.027241233,51.50990947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.927225202,51.47306589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.926591992,51.50003873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.968997027,51.53639038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.027815278,51.48293582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.027815278,51.48293582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.041461578,51.5190193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.971225366,51.43748858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.04127277,51.52801051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.069552553,51.55521634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.942038142,51.45521466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.973240144,51.34757634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.929748229,51.3651732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.913469017,51.44596044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.956634579,51.44635255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.956634579,51.44635255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.041461578,51.5190193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.041650289,51.51002808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.984214618,51.50055194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-1.013026558,51.50079792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.839247484,51.5351784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus vulgaris</description>
+      <Point>
+        <coordinates>-1.056987371,51.46518839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.043460414,51.38908884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.800249901,51.37291178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.94224595,51.44622361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.970011483,51.49143523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.912828309,51.47293329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.955608605,51.49130786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.896912825,51.53573477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.143527633,51.45685964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.085777646,51.46541639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.769107673,51.46251967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-1.113697007,51.51059458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.997040735,51.57260441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.14217854,51.52879172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.81391767,51.40003026,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.886877391,51.35578063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.868525751,51.51747871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.143864034,51.43887647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.899296887,51.43683527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.983814611,51.51853409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-1.127934936,51.51969401,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.998817552,51.49168468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.939536032,51.56310612,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.941414073,51.48218772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.058467066,51.3932572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.086854105,51.41146765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.115957668,51.39370499,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.102288668,51.35762932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.999801096,51.44672877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.028579285,51.44697075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.1286813,51.51835065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.957862246,51.39240571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.957248889,51.41937919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.914534654,51.4010054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.955403092,51.50029887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.016891152,51.32097165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myocastor coypus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.999211275,51.47370236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.142347483,51.51980026,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nyctalus noctula</description>
+      <Point>
+        <coordinates>-1.087748603,51.36650997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nyctalus noctula</description>
+      <Point>
+        <coordinates>-0.94224595,51.44622361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nyctalus noctula</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.128278231,51.50171111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.027815278,51.48293582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.115610863,51.41168816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.021514119,51.54178614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.959086108,51.33845835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.071929587,51.43832907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.944731272,51.33832991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.858157696,51.35550422,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.927225202,51.47306589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.884034858,51.4726628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.953755139,51.5722265,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Martes martes</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.171090578,51.40534901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis mystacinus/brandtii</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-0.958066487,51.38341452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.143190884,51.47484274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.012832276,51.50978909,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.073202914,51.37538878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.143527633,51.45685964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.027815278,51.48293582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-1.084697837,51.51936462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.959086108,51.33845835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.813452287,51.41801169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.825525541,51.50806314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.013996461,51.45584189,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.070102522,51.52824257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.985412153,51.44660513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.087212182,51.39348462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.898648036,51.46380804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.896912825,51.53573477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.958066487,51.38341452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.809987791,51.52364413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.11253094,51.53351718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Hydropotes inermis</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.085777646,51.46541639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.043344291,51.4291064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.963184744,51.570062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.98348394,51.56574322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-1.070285655,51.51925128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.94245365,51.43723255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela furo</description>
+      <Point>
+        <coordinates>-0.985013388,51.46458746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela furo</description>
+      <Point>
+        <coordinates>-0.926591992,51.50003873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.11253094,51.53351718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.069185431,51.57319878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.069552553,51.55521634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.070285655,51.51925128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.170488484,51.43861824,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-0.975274507,51.41728993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.11253094,51.53351718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex minutus</description>
+      <Point>
+        <coordinates>-0.98348394,51.56574322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex minutus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.928488675,51.4191198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.942038142,51.45521466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.911329446,51.53586944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.983814611,51.51853409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.825525541,51.50806314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.811819646,51.48094625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.116130935,51.38471339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.01419014,51.44685064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.913469017,51.44596044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.869416022,51.48151569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.969808802,51.50042629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-0.94224595,51.44622361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-1.056430903,51.49216235,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-1.101056081,51.42057032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.102288668,51.35762932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myocastor coypus</description>
+      <Point>
+        <coordinates>-0.842437804,51.4093085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.101936955,51.37561253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-1.085777646,51.46541639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.909989675,51.44098202,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.143022379,51.48383428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.85838118,51.34651328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela putorius</description>
+      <Point>
+        <coordinates>-1.166907447,51.47726182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela putorius</description>
+      <Point>
+        <coordinates>-1.006475403,51.5038901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.082364321,51.52788948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-1.09569401,51.51000753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Cervus elaphus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Cervus elaphus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela putorius</description>
+      <Point>
+        <coordinates>-1.079154793,51.54405122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Hydropotes inermis</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.911996684,51.53812383,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Cervus elaphus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.853476807,51.45663031,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.896912825,51.53573477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Ondatra zibethicus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-0.88161464,51.57156118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.953663243,51.54479777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.922154587,51.35206363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.784217216,51.43569821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.985412153,51.44660513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.828979904,51.37320245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.086854105,51.41146765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.09569401,51.51000753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.09569401,51.51000753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela vison</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.999211275,51.47370236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-0.927014241,51.48205685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.842437804,51.4093085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.031051411,51.33008271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lepus europaeus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus flavicollis</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.959086108,51.33845835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.94349054,51.39227702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muscardinus avellanarius</description>
+      <Point>
+        <coordinates>-1.042215834,51.48305431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Neomys fodiens</description>
+      <Point>
+        <coordinates>-1.059020374,51.36628277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex minutus</description>
+      <Point>
+        <coordinates>-1.027815278,51.48293582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lutra lutra</description>
+      <Point>
+        <coordinates>-1.016121429,51.35693736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lutra lutra</description>
+      <Point>
+        <coordinates>-0.999997499,51.43773754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Ondatra zibethicus</description>
+      <Point>
+        <coordinates>-0.970821157,51.45547085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myocastor coypus</description>
+      <Point>
+        <coordinates>-0.784217216,51.43569821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Arvicola amphibius</description>
+      <Point>
+        <coordinates>-1.11474228,51.45664584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.079568857,51.38038508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex minutus</description>
+      <Point>
+        <coordinates>-0.927014241,51.48205685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.811585928,51.48993685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-1.014383719,51.43785938,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.999604591,51.45571998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-1.013414821,51.48281556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Micromys minutus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.969606016,51.50941733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Erinaceus europaeus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.970821157,51.45547085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis mystacinus/brandtii</description>
+      <Point>
+        <coordinates>-0.882496317,51.53559834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.11474228,51.45664584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.025706072,51.58183856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-0.944111387,51.36530353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-0.914534654,51.4010054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-1.173125447,51.41210803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-0.927014241,51.48205685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus vulgaris</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-0.911758248,51.51788775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.927014241,51.48205685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.14453579,51.40290998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rattus norvegicus</description>
+      <Point>
+        <coordinates>-1.129476964,51.43877052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.810649844,51.52589907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.913255558,51.45495141,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vulpes vulpes</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Clethrionomys glareolus</description>
+      <Point>
+        <coordinates>-0.927014241,51.48205685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Oryctolagus cuniculus</description>
+      <Point>
+        <coordinates>-0.840161367,51.49921586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myocastor coypus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.129305983,51.44776208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.982612098,51.57248021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.042592376,51.46507173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.972234058,51.39253264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-1.173287617,51.40311631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nyctalus noctula</description>
+      <Point>
+        <coordinates>-1.072111773,51.42933765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nyctalus noctula</description>
+      <Point>
+        <coordinates>-0.770556798,51.40857648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Talpa europaea</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Capreolus capreolus</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-0.956634579,51.44635255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.776183847,51.46709025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.065927959,51.37982749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.828061362,51.40916562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.985412153,51.44660513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Pipistrellus pipistrellus sensu lato</description>
+      <Point>
+        <coordinates>-0.983814611,51.51853409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Rhinolophus ferrumequinum</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Apodemus sylvaticus</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Microtus agrestis</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela erminea</description>
+      <Point>
+        <coordinates>-1.064092927,51.46974173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Mustela nivalis</description>
+      <Point>
+        <coordinates>-0.928908961,51.40113766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Myotis daubentonii</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Dama dama</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sciurus carolinensis</description>
+      <Point>
+        <coordinates>-0.922250059,51.37859404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.920132889,51.46850433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Meles meles</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Sorex araneus</description>
+      <Point>
+        <coordinates>-0.918004721,51.55841318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Muntiacus reevesi</description>
+      <Point>
+        <coordinates>-1.062248362,51.55965454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Plecotus</description>
+      <Point>
+        <coordinates>-0.956634579,51.44635255,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
